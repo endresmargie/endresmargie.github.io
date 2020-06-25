@@ -1757,6 +1757,27 @@ section.lazy-placeholder:after {
 .cid-s2VO6Q7pWj .media-container-row .mbr-text {
   color: #16e8c8;
 }
+.cid-s2VY3c8lqX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-s2VY3c8lqX .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s2VY3c8lqX .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-s2VY3c8lqX .mbr-figure img {
+    width: 100% !important;
+  }
+}
 .cid-s2UAZRZoKe .navbar {
   background: #efefef;
   transition: none;
